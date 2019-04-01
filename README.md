@@ -1,2 +1,6 @@
 # text
-time
+t
+
+func a () {
+var kdjdk = Int()
+}
